@@ -1,0 +1,21 @@
+product_id,product_name,category,price,stock_quantity
+1,Quinoa,Groceries,569.44,57
+2,Sparkling Water,Beverages,376.50,92
+3,White T-Shirt,Clothing,299.99,76
+4,Denim Jeans,Clothing,459.50,76
+5,Smartphone,Electronics,899.99,80
+6,Cold Brew,Beverages,499.99,44
+7,Wireless Earbuds,Electronics,199.99,46
+8,Hoodie,Clothing,299.00,93
+9,Orange Juice,Beverages,249.75,90
+10,Olive Oil,Groceries,159.30,92
+11,Cotton Dress,Clothing,379.50,75
+12,Green Tea,Beverages,199.99,37
+13,Rice Flour,Groceries,150.60,22
+14,Leather Jacket,Clothing,699.00,65
+15,Whole Bread,Groceries,120.99,93
+16,Power Bank,Electronics,199.50,75
+17,Mobile Charger,Electronics,129.99,47
+18,Organic Honey,Groceries,899.99,62
+19,Coffee Beans,Beverages,399.00,21
+20,Flour,Groceries,220.80,44
