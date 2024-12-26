@@ -11,7 +11,7 @@
 - [Enhancement](#enhancement)
 
 ---
-
+![alt text](assets/Architeture.png)
 
 ## **Problem Statement**  
 [Back to Contents](#contents)  
