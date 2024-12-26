@@ -42,7 +42,8 @@ The environment setup includes:
 
 ## **Key Features**  
 [Back to Contents](#contents)  
-- **Data Generation**: Created synthetic retail data using the Faker library for customers, products, transactions, and locations.  
+- **Data Generation**: Created synthetic retail data using the Faker library for customers, products, transactions, and locations.
+  - Python Script: [data_generator.py](data_generator.py)
 - **Data Warehouse**: Built a Snowflake-based data warehouse following the Medallion architecture.  
 - **Medallion Architecture**:
     - **Bronze Layer**: Stored raw data directly from the internal stage.  
